@@ -1,0 +1,17 @@
+{
+  "name": "Time Block List",
+  "short_name": "TimeBlock",
+  "description": "Local-first Progressive Web App combining Google Tasks management with Google Calendar time-blocking",
+  "start_url": "/todo-calendar/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4361ee",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
